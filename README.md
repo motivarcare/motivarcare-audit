@@ -1,6 +1,6 @@
 # MotivarCare — Informe de Auditoría UX
 
-> **Sitio oficial del informe:** [motivarcare.github.io](https://motivarcare.github.io/)  
+> **Sitio oficial del informe:** [motivarcare.github.io/motivarcare-audit](https://motivarcare.github.io/motivarcare-audit/)  
 > **Fecha:** Septiembre 2026  
 > **Metodología:** 10 Heurísticas de Nielsen adaptadas a Telepsicología & Salud Mental
 
@@ -25,7 +25,7 @@
 
 ## 🚀 Cómo Probar Localmente
 
-1. Abre una terminal en esta carpeta (`motivarcare.github.io`):
+1. Abre una terminal en esta carpeta (`motivarcare-audit`):
 ```bash
 npm install
 npm run dev
@@ -48,7 +48,7 @@ El repositorio cuenta con un flujo de trabajo automatizado en `.github/workflows
 
 ## 📁 Estructura del Proyecto
 ```text
-motivarcare.github.io/
+motivarcare-audit/
 ├── index.html              # Plantilla HTML principal del informe
 ├── package.json            # Scripts de Vite (dev, build, preview)
 ├── vite.config.js          # Configuración de rutas y servidor
